@@ -1,1 +1,1 @@
-# M1-application-Detecting-stamps-on-Documents
+# M1-application-TelecomBiling
