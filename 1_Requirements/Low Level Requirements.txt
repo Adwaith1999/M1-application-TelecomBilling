@@ -1,1 +1,4 @@
-
+1) Performance Reporting − A satisfactory system will provide performance reporting, ensure quality-of-service (QoS) reporting, create management reports, and generate regulatory reports.
+2) Installation and Maintenance − The system should also provide workforce scheduling and manage activities performed at the customer premises.
+3) Auditing & Security − A billing system should perform data audits and integrity checks. A secure system is always desirable for an operator.
+4) Partner revenue management − Partner revenue management are the sharing of revenue between carriers that provide services to each other's customers.
