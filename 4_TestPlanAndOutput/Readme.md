@@ -26,4 +26,4 @@
 **OUTPUT:**
 
 | **Step No** | **Step Description** | **Expected Result** |
-| :---
+| :---        |     :---             |                 :---|
