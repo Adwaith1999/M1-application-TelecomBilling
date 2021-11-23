@@ -5,7 +5,6 @@
 | **Billing System**          | 3) Verify the number entered is valid, and it is 10 digit number                    |                                                         
 |                             | 4) Verify the number is not blocked due to some reasons                             |                                                     
 |                             | 5)Verify the plan chosen by the customer displays on the billing system             |                                                                |                             | 6) Verify the total amount billed is accurate and mapped to the service offered     |
-|-----------------------------|-------------------------------------------------------------------------------------|
 |                             | 1) Protocols, signaling, field testing for IOT                                      |                    
 |                             | 2) Usage and Functional Testing for core Mobile handset applications                |
 | **Application Testing**     | like a call, SMS, transfer/hold, etc.                                               |
