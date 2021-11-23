@@ -10,10 +10,13 @@
 | **Application Testing**     | like a call, SMS, transfer/hold, etc.                                               |
 |                             | 3) Testing of various applications like finance, sports and                         |
 |                             | location-based services, etc. OSS-BSS testing                                       |
-|                             |
-|                             |
-|                             |
-|                             |
-|                             |
-|                             |
-|                             |
+|                             | 1) Billing, customer case, interconnect billing, order and fraud management,        |
+| **OSS-BSS Testing**         | revenue assurance                                                                   |
+|                             | 2) Network management, mediation, provisioning, etc.                                |
+|                             | 3) EAI, CRM & ERP, data warehousing, etc.                                           |
+| **Conformance Testing**     | 1) Electrical interface compatibility                                               |
+|                             | 2) Conformance of protocol & transport layer                                        |
+|                             | 1) Interactive test scenarios                                                       |
+| **IVR Testing**             | 2) Extensive conditional branching sequences                                        |
+|                             | 3) Broadband audio tones                                                            |
+|                             | 4) DTMF entries                                                                     |
