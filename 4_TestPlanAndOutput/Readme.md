@@ -1,3 +1,5 @@
+**TEST PLAN:**
+
 | **Various Telecom Testing** |                          **Testing activities in Telecom**                          |
 | :---                        |                                                                                 :---|
 |                             | 1) Verify, the telephone number of the customer is registered under telecom operator|
@@ -20,3 +22,8 @@
 | **IVR Testing**             | 2) Extensive conditional branching sequences                                        |
 |                             | 3) Broadband audio tones                                                            |
 |                             | 4) DTMF entries                                                                     |
+
+**OUTPUT:**
+
+| **Step No** | **Step Description** | **Expected Result** |
+| :---
