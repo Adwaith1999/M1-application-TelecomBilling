@@ -1,4 +1,4 @@
-**Introduction:
+**Introduction**:
 
 There could be very complex charging scenarios, which would be difficult to handle manually. There are state-of-the-art Billing Systems available in the software market that can handle billing tasks very efficiently and provide lots of flexibilities to service providers to offer their services with different price structures.
 
@@ -6,7 +6,7 @@ Billing systems are often viewed as accounts receivable, as the billing system a
 
 Billing systems are high end, reliable, and expensive softwares, which provide various functionalities
 
-**SWOT Anaysis:
+**SWOT Anaysis**:
 
 **Strength**:- 1. Huge Customer potential
                2. High Growth Rate
@@ -27,7 +27,7 @@ Billing systems are high end, reliable, and expensive softwares, which provide v
              4. Fast aging of technology
 
 
-**High Level Requirements:
+**High Level Requirements**:
 
 1) Customer-interface Management − The billing system must be able to handle customer-initiated contact, oversee outbound customer contact, and manage the contact life cycle.
 2) Order Management − It is a basic functionality, which should be available in a typical billing system. Billing system should be capable enough to capture product & service order and manage the order-entry life cycle, and oversee the order-completion life cycle.
@@ -36,7 +36,7 @@ Billing systems are high end, reliable, and expensive softwares, which provide v
 5) Launch Updates: Accelerating time-to-market for new service launches.
 6) Discounting − A billing system should be capable of giving various types of discounts on different usages and rentals.
 
-**Low Level Requirements:
+**Low Level Requirements**:
 
 1) Performance Reporting − A satisfactory system will provide performance reporting, ensure quality-of-service (QoS) reporting, create management reports, and generate regulatory reports.
 2) Installation and Maintenance − The system should also provide workforce scheduling and manage activities performed at the customer premises.
