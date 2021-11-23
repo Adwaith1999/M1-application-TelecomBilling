@@ -7,4 +7,13 @@
 #include<windows.h>
 #include<stdlib.h>
 
+void addrecords();
+void listrecords();
+void modifyrecords();
+void deleterecords();
+void searchrecords();
+void payment();
+
+#endif
+
 
