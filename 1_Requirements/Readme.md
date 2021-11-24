@@ -6,6 +6,31 @@ Billing systems are often viewed as accounts receivable, as the billing system a
 
 Billing systems are high end, reliable, and expensive softwares, which provide various functionalities
 
+**Features**:
+
+Rating & billing − It involves rating the products or services usage and producing monthly bills.
+
+Payment processing − It involves posting of the customer's payments into his/her account.
+
+Credit control and collections − It involves chasing the outstanding payments and taking appropriate actions to collect the payments.
+
+Disputes and adjustments − It involves recording customer's disputes against their bills and creating adjustment to refund the disputed amount in order to settle the disputes.
+
+Pre-pay and post-pay services − It involves supporting both the pre-paid and the post-paid customer bases.
+
+Multilingual & multiple currencies − Multilingual and multiple currencies support is required if the business is spread across the globe and have multinational customers or else if the government regulations demand for it.
+
+Inter-carrier settlements − It involve sharing of revenue between carriers that provide services to each other's customers.
+
+Products & services − This involves providing flexible way to maintain various products and services and sell them individually or in packages.
+
+Discount applications − This involves defining various discount schemes in order to reduce customer churn and attract and increase customer base.
+
+
+**State of Art**:
+
+https://github.com/Adwaith1999/M1-application-TelecomBilling/blob/main/1_Requirements/State%20of%20art.png
+
 **SWOT Anaysis**:
 
 **Strength**:- 1. Huge Customer potential
