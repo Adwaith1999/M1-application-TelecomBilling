@@ -2,7 +2,9 @@
 #define __TELECOM_BILLING_H__
 
 #include<stdio.h>
+#include<conio.h>
 #include<ctype.h>
+#include<windows.h>
 #include<stdlib.h>
 
 void addrecords();
