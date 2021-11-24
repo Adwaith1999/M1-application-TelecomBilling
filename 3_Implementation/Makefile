@@ -1,5 +1,5 @@
 # Name of the project
-PROJECT_NAME = Telecom Billing
+PROJECT_NAME = TelecomBilling
 
 # Output directory
 BUILD = build
