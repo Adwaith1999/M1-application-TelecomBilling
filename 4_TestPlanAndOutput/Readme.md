@@ -23,16 +23,3 @@
 |                             | 3) Broadband audio tones                                                            |
 |                             | 4) DTMF entries                                                                     |
 
-**OUTPUT:**
-
-| **Step No** |                               **Step Description**                             | **Expected Result**                                                     |
-| :---        |     :---                                                                       |                                                                     :---|
-| **Step 1**  | Validate that customer’s telephone number is registered under telecom operator | Customer’s telephone number should be registered with telecom operator  |
-| **Step 2**  | Validate that the number is working and given number is of expected number of  |                                                                         |
-|             | digits (usually for mobile number, the digits are of 10 digits)                |                                                                         |
-| **Step 3**  | Validate that the generated bill contains all accurate details of calls with   | The generated respective date and timebill should contain accurate      |
-|             | date and time                                                                  | details with respective date and time                                   |
-| **Step 4**  | Validate that customer has paid all existing bills, if not then show it on the | Existing un-paid bills should be displayed on front screen              |
-|             | front screen as per business requirement                                       |                                                                         |
-
-
