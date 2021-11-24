@@ -1,18 +1,20 @@
-void addrecords();
+#include<Telecom.Billing.h>
+
+void addrecords()
 {
 }
-void listrecords();
+void listrecords()
 {
 }
-void modifyrecords();
+void modifyrecords()
 {
 }
-void deleterecords();
+void deleterecords()
 {
 }
-void searchrecords();
+void searchrecords()
 {
 }
-void payment();
+void payment()
 {
 }
