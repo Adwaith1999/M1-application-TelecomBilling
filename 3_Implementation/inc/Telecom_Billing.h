@@ -14,6 +14,13 @@ void deleterecords();
 void searchrecords();
 void payment();
 
+typedef struct subscriber
+{
+char phonenumber[20];
+char name[50];
+float amount;
+}s;
+
 #endif
 
 
