@@ -1,20 +1,23 @@
 #include<Telecom.Billing.h>
 
-void addrecords()
+int password()
 {
 }
-void listrecords()
+int addrecords(char phonenumber,char name,float amount)
 {
 }
-void modifyrecords()
+int listrecords(char phonenumber,char name,float amount)
 {
 }
-void deleterecords()
+int modifyrecords(char phonenumber,char name,float amount)
 {
 }
-void searchrecords()
+int deleterecords(char phonenumber,char name,float amount)
 {
 }
-void payment()
+int searchrecords(char phonenumber,char name,float amount)
+{
+}
+int payment(char phonenumber,char name,float amount)
 {
 }
