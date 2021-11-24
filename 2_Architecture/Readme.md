@@ -8,4 +8,5 @@ https://github.com/Adwaith1999/M1-application-TelecomBilling/blob/main/2_Archite
 **BEHAVIOURIAL DESIGN:**
 
 https://github.com/Adwaith1999/M1-application-TelecomBilling/blob/main/2_Architecture/Behaviourial%20Diagram.jpg
-2_Architecture/Telecom_Billing_Behaviourial.jpg
+
+https://github.com/Adwaith1999/M1-application-TelecomBilling/blob/main/2_Architecture/Telecom_Billing_Behaviourial.jpg
