@@ -17,6 +17,6 @@ int searchrecords(char phonenumber,char name,float amount)
 }
 float payment(char phonenumber,char name,float amount)
 {
-  current amount= current amount - amount;
-  return current amount;
+  amount = amount - rem amount;
+  return amount;
 }
