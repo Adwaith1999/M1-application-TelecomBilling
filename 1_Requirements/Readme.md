@@ -29,7 +29,7 @@ Discount applications − This involves defining various discount schemes in ord
 
 **State of Art**:
 
-https://github.com/Adwaith1999/M1-application-TelecomBilling/blob/main/1_Requirements/State%20of%20art.png
+![alt text](https://github.com/Adwaith1999/M1-application-TelecomBilling/blob/main/1_Requirements/State%20of%20art.png)
 
 **SWOT Anaysis**:
 
