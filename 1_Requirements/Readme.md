@@ -26,6 +26,17 @@ Products & services − This involves providing flexible way to maintain various
 
 Discount applications − This involves defining various discount schemes in order to reduce customer churn and attract and increase customer base.
 
+**4W 1H:**
+
+**WHAT**: Telecom Billing is a process of collecting usage, aggregating it, applying required charges and finally generating invoices for the customers.
+
+**WHERE**: Telecommunications billing is a significant component of any commercial communications service provider regardless specialization: telephone, mobile wireless communication, VoIP companies, mobile virtual network operators, internet service providers, transit traffic companies, cable television and satellite TV.
+
+**WHY**: One of the most important aspect to running any business – big or small, privately held or public corporation - is billing. Without billing, cash flow will dry up and business will collapse.
+
+**WHEN**: Telecom Billing is used when Multiple features are to be carried out.
+
+**HOW**: A telecom's billing cycle starts with gathering service usage, typing the calls, applying charges, applying taxes and then generating the customer invoice. Billing also includes transmitting the invoices and recording customer payments and adjustments.
 
 **State of Art**:
 
